@@ -1,0 +1,41 @@
+{
+  "export_root": "",
+  "lightroom_export_preset": "",
+  "lr_custom_text_pattern": "{registration}-{format}",
+  "original_suffix": "auto",
+  "prefix_capture_date": true,
+  "photoshop_bundle_id": "com.adobe.Photoshop",
+  "lightroom_bundle_id": "com.adobe.LightroomClassicCC7",
+  "quit_photoshop": true,
+  "jpeg_quality": 100,
+  "format_tolerance": 0.04,
+  "front_slice": "flight_direction",
+  "flag_original": true,
+  "open_folder": false,
+  "lightroom_timeout_s": 180,
+  "lr_menu_wait_s": 8,
+  "type_mapping": {},
+  "carousel_enabled": true,
+  "carousel_folder": "Carousel",
+  "carousel_width": 1620,
+  "carousel_height": 2025,
+  "carousel_blur": 60,
+  "carousel_darken": 10,
+  "carousel_divider": "graphic",
+  "carousel_font": "HelveticaNeue-Light",
+  "carousel_font_fallback": "HelveticaNeue",
+  "copyright": "",
+  "instagram": "",
+  "spots": [
+    {
+      "active": false,
+      "name": "Example – enter your own spot",
+      "lat": 50.0,
+      "lon": 8.0,
+      "radius_m": 1500,
+      "airport": "FRA",
+      "runway_left": "25C",
+      "runway_right": "07C"
+    }
+  ]
+}

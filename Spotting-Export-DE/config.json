@@ -1,0 +1,40 @@
+{
+  "export_root": "",
+  "lightroom_exportvorgabe": "",
+  "lr_freitext_muster": "{kennzeichen}-{format}",
+  "original_suffix": "auto",
+  "datum_voranstellen": true,
+  "photoshop_bundle_id": "com.adobe.Photoshop",
+  "lightroom_bundle_id": "com.adobe.LightroomClassicCC7",
+  "photoshop_beenden": true,
+  "jpeg_quality": 100,
+  "format_toleranz": 0.04,
+  "front_slice": "flugrichtung",
+  "original_markieren": true,
+  "ordner_oeffnen": false,
+  "lightroom_timeout_s": 180,
+  "familien_zuordnung": {},
+  "spots": [
+    {
+      "aktiv": false,
+      "name": "Beispiel – eigenen Spot eintragen",
+      "lat": 50.0,
+      "lon": 8.0,
+      "radius_m": 1500,
+      "flughafen": "FRA",
+      "runway_links": "25C",
+      "runway_rechts": "07C"
+    }
+  ],
+  "carousel_aktiv": true,
+  "carousel_ordner": "Carousel",
+  "carousel_breite": 1620,
+  "carousel_hoehe": 2025,
+  "carousel_unschaerfe": 60,
+  "carousel_abdunkeln": 10,
+  "carousel_trennlinie": "grafik",
+  "carousel_schrift": "HelveticaNeue-Light",
+  "carousel_schrift_ersatz": "HelveticaNeue",
+  "copyright": "",
+  "instagram": ""
+}
