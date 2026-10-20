@@ -1,8 +1,0 @@
-Spotting Export – Idee & Workflow von shutterview (github.com/shutterview), gebaut mit Claude.
-
-Lizenz: Creative Commons Namensnennung – Nicht kommerziell 4.0 International (CC BY-NC 4.0)
-https://creativecommons.org/licenses/by-nc/4.0/deed.de
-
-Du darfst den Workflow für private, nicht-kommerzielle Zwecke nutzen, teilen und anpassen,
-solange du shutterview (github.com/shutterview) als Urheber nennst. Ohne Gewähr.
-Adobe Lightroom Classic und Adobe Photoshop sind nicht enthalten.
